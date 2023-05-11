@@ -1,4 +1,4 @@
-package Day6_nestedİfElseStatements_TrenaryOperator;
+package day06_nestedIfElseStatements_ternaryOperators;
 
 import java.util.Scanner;
 
@@ -25,29 +25,29 @@ public class C02_NestedIfElse {
 
         int yas = scanner.nextInt();
 
-        if (cinsiyet == 'K'){ // Burada sadace kadinlar var
+        if (cinsiyet == 'K') { // Burada sadace kadinlar var
 
             // buraya kadinlar icin ikinci degisken olan yas'a gore if else olusturalim
-            if (yas<10 || yas>80){
+            if (yas < 10 || yas > 80) {
                 System.out.println("Gecersiz yas");
-            } else if (yas<60) {
-                System.out.println("Kadin 60 yasina kadar calismalidir, daha "+(60-yas)+ " sene calismalisin");
-            }else{
+            } else if (yas < 60) {
+                System.out.println("Kadin 60 yasina kadar calismalidir, daha " + (60 - yas) + " sene calismalisin");
+            } else {
                 System.out.println("Emekli olabilirsin");
             }
 
         } else if (cinsiyet == 'E') { // Burada sadece erkekler var
 
             // buraya erkekler icin ikinci degisken yas'a gore if else olusturalim
-            if (yas<10 || yas>80){
+            if (yas < 10 || yas > 80) {
                 System.out.println("Gecersiz yas");
-            } else if (yas<65) {
-                System.out.println("Erkek 65 yasina kadar calismalidir, daha "+(65-yas)+ " sene calismalisin");
-            }else{
+            } else if (yas < 65) {
+                System.out.println("Erkek 65 yasina kadar calismalidir, daha " + (65 - yas) + " sene calismalisin");
+            } else {
                 System.out.println("Emekli olabilirsin");
             }
 
-        } else{
+        } else {
             System.out.println("Cinsiyet girisi hatali");
         }
     }
