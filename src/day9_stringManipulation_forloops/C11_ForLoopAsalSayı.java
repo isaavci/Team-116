@@ -5,7 +5,7 @@ public class C11_ForLoopAsalSayı {
 
         // verilen bir sayinin asal sayi olup olmadigini yazdirin
 
-        int sayi = 91;
+        int sayi = 13;
         boolean asalMi=true;
 
         for (int i = 2; i <sayi ; i++) {

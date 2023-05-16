@@ -5,90 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f257bdd9-900a-4dd4-b128-6a12b0a8f270" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_Increment/C01_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_Increment/C02_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04_increment_concatenation/C01_PreIncrement_PostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04_increment_concatenation/C02_PreIncrement_PostIncrement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C01_DataTurleri.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C01_DataTurleri.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C02_NonPrimitiveDataTurleri.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C02_NonPrimitiveDataTurleri.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C03_NamingConvension.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C03_NamingConvension.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C04_Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C04_Scanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C05_Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C05_Scanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C06_Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day02_Dataturleri_Scanner/C06_Scanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day03_datacasting/C01_mte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day03_datacasting/modulus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day03_datacasting/rakamlartoplamı.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day04_IncrementDEcrement/C01_PreIncrement_PostIncrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day04_IncrementDEcrement/C02_PreIncrement_PostIncrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day04_IncrementDEcrement/C03_PreIncrement_PostIncrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day04_IncrementDEcrement/C04_Concatenation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day04_IncrementDEcrement/C05_KarsilastirmaOperatorleri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C01_SwitchStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C01_SwitchStatements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C02_SwitchStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C02_SwitchStatements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C03_SwitchStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C03_SwitchStatements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C04_SwitchStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C04_SwitchStatements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C05_toLowerCase_toUpperCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C05_toLowerCase_toUpperCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C06_charAt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C06_charAt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C07_Contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C07_Contains.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C08_equals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C08_equals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C09_equalsIgnoreCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C09_equalsIgnoreCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C10_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/Day07_SwitchStatements_StringManipulation/C10_Substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/Day6_nestedİfElseStatements_TrenaryOperator/C02_NestedIfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day19_staticKeyword_passByValue/C06_PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day19_staticKeyword_passByValue/C06_PassByValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C01_LocalTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C01_LocalTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C02_LocalTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C03_LocalDateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C03_LocalDateTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C04_DateTimeFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C04_DateTimeFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C05_Period.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C05_Period.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C06_Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C06_Varargs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C07_Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day21_dateTime_varargs/C07_Varargs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/C01_IncrementDecrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/Concatenation1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/Postpreincrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/Preincrementpost.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/c02preincremntpost.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/congadineysın.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/incrementdecrement2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/postincrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/prepostincrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Team116/day4practice/ıncrement_Decrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day02_Dataturleri_Scanner/C01_DataTurleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_dataTurleri_scanner/C01_DataTurleri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day02_Dataturleri_Scanner/C02_NonPrimitiveDataTurleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_dataTurleri_scanner/C02_NonPrimitiveDataTurleri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day02_Dataturleri_Scanner/C03_NamingConvension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_dataTurleri_scanner/C03_NamingConvension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day02_Dataturleri_Scanner/C04_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_dataTurleri_scanner/C04_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day02_Dataturleri_Scanner/C05_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_dataTurleri_scanner/C05_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day02_Dataturleri_Scanner/C06_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_dataTurleri_scanner/C06_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day03_datacasting/C01_mte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day03_datacasting/modulus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day03_datacasting/rakamlartoplamı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03_dataCasting_Increment/C03_DataCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day04_IncrementDEcrement/C01_PreIncrement_PostIncrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day04_IncrementDEcrement/C02_PreIncrement_PostIncrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day04_IncrementDEcrement/C03_PreIncrement_PostIncrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day04_IncrementDEcrement/C04_Concatenation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day04_IncrementDEcrement/C05_KarsilastirmaOperatorleri.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C01_SwitchStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C01_SwitchStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C02_SwitchStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C02_SwitchStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C03_SwitchStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C03_SwitchStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C04_SwitchStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C04_SwitchStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C05_toLowerCase_toUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C05_toLowerCase_toUpperCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C06_charAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C06_charAt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C07_Contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C07_Contains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C08_equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C08_equals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C09_equalsIgnoreCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C09_equalsIgnoreCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07_SwitchStatements_StringManipulation/C10_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_SwitchStatements_StringManipulation/C10_Substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_nestedIfElseStatements_ternaryOperators/C02_NestedIfElse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_staticKeyword_passByValue/C06_PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_staticKeyword_passByValue/C06_PassByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/C01_IncrementDecrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/Concatenation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04_increment_concatenation/C03_PreIncrement_PostIncrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/Postpreincrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/Preincrementpost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/c02preincremntpost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/congadineysın.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04_increment_concatenation/C04_Concatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/incrementdecrement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04_increment_concatenation/C06_LogicalOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/postincrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/prepostincrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4practice/ıncrement_Decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04_increment_concatenation/C05_KarsilastirmaOperatorleri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Team116/day22_stringBuilder_accessModifier/C05_accessModifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day22_stringBuilder_accessModifier/C05_accessModifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Team116/day9_stringManipulation_forloops/C11_ForLoopAsalSayı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Team116/day9_stringManipulation_forloops/C11_ForLoopAsalSayı.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_stringBuilder_accessModifier/C05_accessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_stringBuilder_accessModifier/C05_accessModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_pollymorphism_abstractClasses/C06_AbstractGP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_pollymorphism_abstractClasses/C06_AbstractGP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_pollymorphism_abstractClasses/C07_AbstractP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_pollymorphism_abstractClasses/C07_AbstractP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_stringManipulation_forloops/C11_ForLoopAsalSayı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9_stringManipulation_forloops/C11_ForLoopAsalSayı.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -124,13 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C04_SwitchStatements">
-    <configuration name="C02_SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07_SwitchStatements_StringManipulation.C02_SwitchStatements" />
+  <component name="RunManager" selected="Application.C02">
+    <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day30_exceptions.C01" />
       <module name="Team116" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_SwitchStatements_StringManipulation.*" />
+          <option name="PATTERN" value="Day30_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_NestedIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06_nestedIfElseStatements_ternaryOperators.C03_NestedIfElse" />
+    <configuration name="C02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day30_exceptions.C02" />
       <module name="Team116" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_nestedIfElseStatements_ternaryOperators.*" />
+          <option name="PATTERN" value="Day30_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_NestedIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06_nestedIfElseStatements_ternaryOperators.C04_NestedIfElse" />
+    <configuration name="C05_MultipleExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_exceptions.C05_MultipleExceptions" />
       <module name="Team116" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_nestedIfElseStatements_ternaryOperators.*" />
+          <option name="PATTERN" value="day29_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07_SwitchStatements_StringManipulation.C04_SwitchStatements" />
+    <configuration name="C06_CatchBlogu_e_kullanimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29.C06_CatchBlogu_e_kullanimi" />
       <module name="Team116" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_SwitchStatements_StringManipulation.*" />
+          <option name="PATTERN" value="day29_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_RakamlarToplaminiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_dataCasting_Increment.C08_RakamlarToplaminiBulma" />
+    <configuration name="C07_CheckedExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29.C07_CheckedExceptions" />
       <module name="Team116" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_dataCasting_Increment.*" />
+          <option name="PATTERN" value="day29_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C04_SwitchStatements" />
-        <item itemvalue="Application.C02_SwitchStatements" />
-        <item itemvalue="Application.C04_NestedIfElse" />
-        <item itemvalue="Application.C03_NestedIfElse" />
-        <item itemvalue="Application.C08_RakamlarToplaminiBulma" />
+        <item itemvalue="Application.C02" />
+        <item itemvalue="Application.C01" />
+        <item itemvalue="Application.C07_CheckedExceptions" />
+        <item itemvalue="Application.C06_CatchBlogu_e_kullanimi" />
+        <item itemvalue="Application.C05_MultipleExceptions" />
       </list>
     </recent_temporary>
   </component>

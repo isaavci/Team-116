@@ -1,0 +1,2 @@
+java Candir
+hergun yeni yeni yonlerini ogreniyoruz

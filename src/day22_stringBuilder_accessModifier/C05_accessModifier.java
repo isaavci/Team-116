@@ -57,9 +57,11 @@ public class C05_accessModifier {
         // publicMethod();
 
 
+
         C05_accessModifier obj = new C05_accessModifier();
         System.out.println(obj.privateStr);
         obj.defaultStaticMethod();
+
 
         // static class uyelerini obje uzerinden kullanmaya gerek yoktur
         // ama kullanmak istersek java itiraz etmez
